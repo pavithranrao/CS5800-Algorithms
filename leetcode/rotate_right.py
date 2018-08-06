@@ -31,3 +31,4 @@ class Solution(object):
                 return head
         else:
             return None
+
